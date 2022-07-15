@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1649443129 source:c:\users\ufrnlab\desktop\ultimo projeto\whatsprog_cliente_noform\whatsprog_dados.cpp
+	"whatsprog_dados.h"
+
+1649443129 c:\users\ufrnlab\desktop\ultimo projeto\whatsprog_cliente_noform\whatsprog_dados.h
+	<iostream>
+	<fstream>
+	<string>
+	<stdint.h>
+	<list>
+
+1649096433 source:c:\users\ufrnlab\desktop\ultimo projeto\mysocket\mysocket.cpp
+	<iostream>
+	<string.h>
+	"mysocket.h"
+	<sys/types.h>
+	<netdb.h>
+	<unistd.h>
+
+1649096433 c:\users\ufrnlab\desktop\ultimo projeto\mysocket\mysocket.h
+	<iostream>
+	<string>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/socket.h>
+
+1649443166 source:c:\users\ufrnlab\desktop\ultimo projeto\whatsprog_cliente_noform\main_cliente_noform.cpp
+	"whatsprog_dados_cliente.h"
+	"../MySocket/mysocket.h"
+	<cstdio>
+	<thread>
+
+1649443156 c:\users\ufrnlab\desktop\ultimo projeto\whatsprog_cliente_noform\whatsprog_dados_cliente.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<list>
+	<stdint.h>
+	<mutex>
+	"whatsprog_dados.h"
+	"../MySocket/mysocket.h"
+
+1649443129 source:c:\users\ufrnlab\desktop\ultimo projeto\whatsprog_cliente_noform\whatsprog_dados_cliente.cpp
+	"whatsprog_dados_cliente.h"
+	<algorithm>
+

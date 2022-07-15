@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1649096433 source:c:\users\ufrnlab\desktop\ultimo projeto\mysocket\main.cpp
+	<iostream>
+
+1649096433 source:c:\users\ufrnlab\desktop\ultimo projeto\mysocket\mysocket.cpp
+	<iostream>
+	<string.h>
+	"mysocket.h"
+	<sys/types.h>
+	<netdb.h>
+	<unistd.h>
+
+1649096433 c:\users\ufrnlab\desktop\ultimo projeto\mysocket\mysocket.h
+	<iostream>
+	<string>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/socket.h>
+
