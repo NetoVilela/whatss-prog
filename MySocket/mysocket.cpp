@@ -2,7 +2,6 @@
 #include <string.h>  // Para memset
 
 #include "mysocket.h"
-
 /* #############################################################
    ##  ATENCAO: VOCE DEVE DESCOMENTAR UM DOS BLOCOS ABAIXO    ##
    ##  PARA PODER COMPILAR NO WINDOWS OU NO LINUX             ##

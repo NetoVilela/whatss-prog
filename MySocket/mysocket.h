@@ -3,6 +3,7 @@
 
 #include <iostream>
 #include <string>
+#define _WIN32_WINNT 0x501
 
 /* #############################################################
    ##  ATENCAO: VOCE DEVE DESCOMENTAR UM DOS BLOCOS ABAIXO    ##
@@ -14,7 +15,7 @@
 ///*
 
 // #############################################################
-// ##  ATENCAO: PARA PODER COMPILAR NO WINDOWS VOCÊ DEVE:     ##
+// ##  ATENCAO: PARA PODER COMPILAR NO WINDOWS VOCï¿½ DEVE:     ##
 // ##  a) linkar com a biblioteca Ws2_32                      ##
 // ##  b) ativar no compilador a opcao -std=c++11 ou c++14,   ##
 // ##     caso jah nao seja a opcao por default               ##

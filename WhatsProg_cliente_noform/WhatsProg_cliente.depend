@@ -1,15 +1,5 @@
 # depslib dependency file v1.0
-1649443129 source:c:\users\ufrnlab\desktop\ultimo projeto\whatsprog_cliente_noform\whatsprog_dados.cpp
-	"whatsprog_dados.h"
-
-1649443129 c:\users\ufrnlab\desktop\ultimo projeto\whatsprog_cliente_noform\whatsprog_dados.h
-	<iostream>
-	<fstream>
-	<string>
-	<stdint.h>
-	<list>
-
-1649096433 source:c:\users\ufrnlab\desktop\ultimo projeto\mysocket\mysocket.cpp
+1658532100 source:c:\users\berna\downloads\mysocket\mysocket.cpp
 	<iostream>
 	<string.h>
 	"mysocket.h"
@@ -17,20 +7,28 @@
 	<netdb.h>
 	<unistd.h>
 
-1649096433 c:\users\ufrnlab\desktop\ultimo projeto\mysocket\mysocket.h
+1658532060 c:\users\berna\downloads\mysocket\mysocket.h
 	<iostream>
 	<string>
 	<winsock2.h>
 	<ws2tcpip.h>
 	<sys/socket.h>
 
-1649443166 source:c:\users\ufrnlab\desktop\ultimo projeto\whatsprog_cliente_noform\main_cliente_noform.cpp
-	"whatsprog_dados_cliente.h"
-	"../MySocket/mysocket.h"
-	<cstdio>
-	<thread>
+1658532208 source:c:\users\berna\downloads\whatsprog_cliente_noform\whatsprog_dados.cpp
+	"whatsprog_dados.h"
 
-1649443156 c:\users\ufrnlab\desktop\ultimo projeto\whatsprog_cliente_noform\whatsprog_dados_cliente.h
+1658532208 c:\users\berna\downloads\whatsprog_cliente_noform\whatsprog_dados.h
+	<iostream>
+	<fstream>
+	<string>
+	<stdint.h>
+	<list>
+
+1658532208 source:c:\users\berna\downloads\whatsprog_cliente_noform\whatsprog_dados_cliente.cpp
+	"whatsprog_dados_cliente.h"
+	<algorithm>
+
+1658532797 c:\users\berna\downloads\whatsprog_cliente_noform\whatsprog_dados_cliente.h
 	<iostream>
 	<fstream>
 	<string>
@@ -40,8 +38,4 @@
 	<mutex>
 	"whatsprog_dados.h"
 	"../MySocket/mysocket.h"
-
-1649443129 source:c:\users\ufrnlab\desktop\ultimo projeto\whatsprog_cliente_noform\whatsprog_dados_cliente.cpp
-	"whatsprog_dados_cliente.h"
-	<algorithm>
 
